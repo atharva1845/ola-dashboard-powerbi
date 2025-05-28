@@ -1,4 +1,4 @@
-# ola-dashboard-powerbi
+
 # OLA Booking Analytics Dashboard 🚖📊
 
 This Power BI dashboard project presents a comprehensive data analysis of ride booking behavior, cancellations, payments, and ratings for a ride-hailing service (simulated as OLA). It showcases end-to-end data handling — from SQL-based extraction and Excel preprocessing to DAX-based modeling and Power BI visual storytelling.
